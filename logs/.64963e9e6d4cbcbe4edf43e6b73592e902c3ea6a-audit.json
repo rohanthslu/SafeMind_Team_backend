@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "logs\\.64963e9e6d4cbcbe4edf43e6b73592e902c3ea6a-audit.json",
+    "files": [
+        {
+            "date": 1732090751971,
+            "name": "logs\\ReqRes_2024-11-20.log",
+            "hash": "e6fe67254de72944e27e020b4d16cbd56cccc25c03ce5647749dba79223d99f8"
+        }
+    ],
+    "hashType": "sha256"
+}
