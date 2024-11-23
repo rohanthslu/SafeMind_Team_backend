@@ -17,7 +17,7 @@ const MySQLConPool = mysql.createPool({
     connectionLimit: process.env.MAX_POOL_SIZE,
     debug: false,
     timezone: 'utc',
-    multipleStatements: true,
+    
     insecureAuth: true,
     charset: 'utf8mb4' 
 });
